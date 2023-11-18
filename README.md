@@ -1,2 +1,5 @@
 # Bidirectional_Selection_Sort
- iteration and recursive
+
+
+ <br></br>
+Bidirectional Selection Sort using Iteration and Recursive approach
