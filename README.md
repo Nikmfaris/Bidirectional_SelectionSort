@@ -1,4 +1,4 @@
-# DATA STRUCTURE ALGORITHM CSCI 2300
+# DATA STRUCTURE ANALYSIS CSCI 2300
 
 
 Bellow, list of data structed algorithm
