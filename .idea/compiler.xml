@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Selection_Sort" />
+        <module name="DSA_Notes" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="." target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
