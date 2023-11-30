@@ -9,6 +9,6 @@ Bellow, list of data structed algorithm
 - [iteration](https://github.com/Nikmfaris/Data_Structure_Analysis/tree/main/DSA_Notes/src/main/java/iteration).
 - [Recursion](https://github.com/Nikmfaris/Data_Structure_Analysis/tree/main/DSA_Notes/src/main/java/Recursion).
 
-https://github.com/Nikmfaris/Data_Structure_Analysis/tree/main/DSA_Notes/src/main/java/AVL_Tree
+
 
 
